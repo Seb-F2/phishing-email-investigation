@@ -124,7 +124,9 @@ Email samples and packet captures were analysed within an isolated Kali Linux en
 
 ## Full Investigation Report
 
-A complete investigation report containing the methodology, evidence, screenshots, analyst verdicts and response recommendations will be available within this repository.
+The complete investigation report contains the methodology, supporting evidence, screenshots, attack-flow reconstruction, analyst verdicts and recommended incident-response actions.
+
+### [📄 View the Full Investigation Report (PDF)](report/Phishing-Email-Investigation-Threat-Intelligence-Analysis.pdf)
 
 ## Dataset Attribution
 
